@@ -2,7 +2,8 @@
 
 Simple Next.js marketplace skeleton "ElvaThrift" (Muvazira Preloved) built with Next.js App Router, Tailwind CSS, and Framer Motion.
 
-Owner: Muthia Elvazira — Mahasiswi UNJ (NIM: 1710624029)
+Owner: Muthia Elvazira — NIM: 1710624029
+Bisdig UNJ 24
 
 To run locally:
 
@@ -10,5 +11,3 @@ To run locally:
 pnpm install # or npm install
 pnpm dev
 ```
-
-This project is ready to push to GitHub and deploy to Vercel.
